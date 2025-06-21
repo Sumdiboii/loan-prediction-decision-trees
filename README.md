@@ -34,21 +34,6 @@ This project utilizes a Decision Tree Classifier to predict whether a customer w
 
 <br>
 
----
-
-<br>
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="readme-images/Screenshot 2025-06-21 194643.png" alt="Data Description Screenshot" />
-  <br><br>
-  <img src="readme-images/Screenshot 2025-06-21 194702.png" alt="Dataframe Head Screenshot" />
-  <br><br>
-  <img src="readme-images/Screenshot 2025-06-21 194712.png" alt="Model Metrics Screenshot" />
-  <br><br>
-  <img src="readme-images/Screenshot 2025-06-21 194750.png" alt="Confusion Matrix Screenshot" />
-</p>
 
 ---
 
