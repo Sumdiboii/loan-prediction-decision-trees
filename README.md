@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="readme-images/loan-logo.png" width="10%" alt="Loan Project Logo" />
+  <img src="readme-images/real-estate.png" width="10%" alt="Loan Project Logo" />
 </p>
 
 <br>
@@ -14,15 +14,10 @@
 
 <br>
 
-<p align="center">
-  <img src="readme-images/loan-banner.png" alt="Loan Project Banner" />
-</p>
 
-<br>
-<br>
 
 <p align="center">
-  <a href="https://colab.research.google.com/drive/1tUx7J-Nv1iLBHVT84zBBrdLQOzSLgNS0">
+  <a href="https://colab.research.google.com/drive/1tUx7J-Nv1iLBHVT84zBBrdLQOzSLgNS0?usp=sharing">
     <img src="https://img.shields.io/badge/Open%20in%20Colab-Click%20Here-F9AB00?style=for-the-badge&logo=googlecolab" alt="📊 Open in Colab" />
   </a>
 </p>
@@ -31,6 +26,8 @@
 
 ---
 
+<br>
+
 ## 🚀 Project Overview
 
 This project utilizes a Decision Tree Classifier to predict whether a customer will accept a personal loan offer, based on a dataset of 5,000 banking records. Key features include customer income, education level, credit card spending, mortgage value, and account behavior. The model was trained using scikit-learn and evaluated with a classification report and confusion matrix, achieving an **accuracy of 97%**, with **92% precision** and **76% recall** for predicting positive loan responses.
@@ -38,6 +35,8 @@ This project utilizes a Decision Tree Classifier to predict whether a customer w
 <br>
 
 ---
+
+<br>
 
 ## 📸 Screenshots
 
@@ -52,6 +51,8 @@ This project utilizes a Decision Tree Classifier to predict whether a customer w
 </p>
 
 ---
+
+<br>
 
 ## 🛠️ Tech Stack and Tools
 
@@ -96,6 +97,8 @@ This project utilizes a Decision Tree Classifier to predict whether a customer w
 
 ---
 
+<br>
+
 ## 🔍 Core Highlights
 
 - 📊 Cleaned and preprocessed 5,000 rows of real-world banking data  
@@ -108,6 +111,9 @@ This project utilizes a Decision Tree Classifier to predict whether a customer w
 
 ---
 
+<br>
+
+
 ## 📚 Key Learning Outcomes
 
 - Practical understanding of classification algorithms using Decision Trees  
@@ -117,18 +123,12 @@ This project utilizes a Decision Tree Classifier to predict whether a customer w
 
 <br>
 
+
+
 ---
-
-## 🧠 Future Enhancements
-
-- 📈 Hyperparameter tuning with GridSearchCV for better performance  
-- 🌳 Visualization of the trained decision tree structure  
-- 🔄 Integration of additional algorithms (e.g., Random Forest, Logistic Regression)  
-- 📊 Deployment of the model via Streamlit or Flask for user interaction
 
 <br>
 
----
 
 ## 👨‍💻 About the Creator
 
